@@ -1,0 +1,29 @@
+Aula de git com Mayk na Rocket em 28/09/24
+
+Nestas aulas de Git, aprendi comandos básicos de Git
+
+Seguindo aula aprendi a incluir usuario, email
+
+a adicionar um arquivo para ficar no "stage area"
+
+adicionar e remover arquivos
+
+visualizar arquivos através do comando git status
+
+remover arquivos com o comando: git rm --cached nomedoaquivo.txt
+
+Inclí todas as informações acima, sem aplicar o comando commit e chamei o comando gti status e ele mostra que o arquivos foi alterado
+
+OBSERVAÇÃO BEM IMPORTANTE - Para salvar versões
+Foi explicado que se vc alterar o arquivo e não der o comando "git add" e aplicar o commit, as alterações que foram feitas no arquivo, não serão aplicadas ao commit. Para isso, deve-se executar o comando git add novamente para que o stage area receba o arquivo com as alterações e seja comitado com novo ponto de versão!
+
+fazendo teste para o restore
+
+
+5
+6
+7
+5
+4
+4
+
